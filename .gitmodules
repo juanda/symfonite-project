@@ -1,3 +1,6 @@
 [submodule "lib/symfony"]
 	path = lib/symfony
 	url = http://github.com/symfony/symfony1.git
+[submodule "plugins"]
+	path = plugins
+	url = http://juanda@github.com/juanda/symfonite.git
