@@ -6,6 +6,8 @@ A symfony project linked to the symfonite plugins
 Installation
 ------------
 
+Inside a directory within the DocumentRoot of your web server:
+
 * git clone git://github.com/juanda/symfonite-project.git
 * git submodule init
 * git submodule update
