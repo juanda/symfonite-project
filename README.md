@@ -17,6 +17,8 @@ plugged. In order to know what you can do with this, you should follow the tutor
 
 http://ntic.educacion.es/desarrollo/docs/sft/tutoriales/index.html
 
+from the 3th point (the precedents say how to deploy the framework from a tgz file)
+
 .. Important 
    
    If you use MySQL > 5.5.x, once de symfony1 submodule has been updated, you
