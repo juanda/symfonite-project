@@ -15,7 +15,7 @@ Inside a directory within the DocumentRoot of your web server:
 That's all. Now you have an empty symfony-1.4 project with the symfonite extension
 plugged. In order to know what you can do with this, you should follow the tutorial:
 
-http://ntic.educacion.es/desarrollo/symfonite 
+http://ntic.educacion.es/desarrollo/docs/sft/tutoriales/index.html
 
 .. Important 
    
