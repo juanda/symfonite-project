@@ -1,0 +1,32 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/07-Databases
+
+dev:
+  sft:
+    param:
+      classname:  DebugPDO
+      debug:
+        realmemoryusage: true
+        details:
+          time:       { enabled: true }
+          slow:       { enabled: true, threshold: 0.1 }
+          mem:        { enabled: true }
+          mempeak:    { enabled: true }
+          memdelta:   { enabled: true }
+
+test:
+  sft:
+    param:
+      classname:  DebugPDO
+
+all:
+  sft:
+    class:        sfPropelDatabase
+    param:
+      classname:  PropelPDO
+      dsn:        mysql:dbname=sft;host=localhost
+      username:   root
+      password:   root   
+      encoding:   utf8
+      persistent: true
+      pooling:    true
