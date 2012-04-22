@@ -8,7 +8,7 @@ Installation
 
 Inside a directory within the DocumentRoot of your web server:
 
-* git clone git://github.com/juanda/symfonite-project.git
+* git clone git://github.com/juanda/symfonite-project.git .
 * git submodule init
 * git submodule update
 
