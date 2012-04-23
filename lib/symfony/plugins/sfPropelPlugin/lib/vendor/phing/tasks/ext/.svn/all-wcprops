@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext
+END
+FtpDeployTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/FtpDeployTask.php
+END
+ManifestTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/ManifestTask.php
+END
+PhpLintTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/PhpLintTask.php
+END
+JslLintTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/JslLintTask.php
+END
+SmartyTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/SmartyTask.php
+END
+MailTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/MailTask.php
+END
+PearPackage2Task.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/PearPackage2Task.php
+END
+TarTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/TarTask.php
+END
+XmlLintTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/XmlLintTask.php
+END
+UntarTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/UntarTask.php
+END
+CapsuleTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/CapsuleTask.php
+END
+PackageAsPathTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/PackageAsPathTask.php
+END
+PhpCodeSnifferTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/PhpCodeSnifferTask.php
+END
+ScpSendTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/ScpSendTask.php
+END
+ZendCodeAnalyzerTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/ZendCodeAnalyzerTask.php
+END
+ZipTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/ZipTask.php
+END
+PearPackageTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/PearPackageTask.php
+END
+UnzipTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/UnzipTask.php
+END
+ExtractBaseTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/ext/ExtractBaseTask.php
+END

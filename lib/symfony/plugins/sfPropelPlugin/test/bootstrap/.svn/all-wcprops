@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/test/bootstrap
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/test/bootstrap/unit.php
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/test/bootstrap/functional.php
+END

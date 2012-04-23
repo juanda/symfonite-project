@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/i18n
+END
+sfValidatorI18nChoiceCountry.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/i18n/sfValidatorI18nChoiceCountry.class.php
+END
+sfValidatorI18nChoiceLanguage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/i18n/sfValidatorI18nChoiceLanguage.class.php
+END
+sfValidatorI18nChoiceTimezone.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/i18n/sfValidatorI18nChoiceTimezone.class.php
+END

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task
+END
+GenerateMigrationsModels.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateMigrationsModels.php
+END
+RebuildDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/RebuildDb.php
+END
+GenerateMigrationsDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateMigrationsDb.php
+END
+CreateTables.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/CreateTables.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/Exception.php
+END
+DumpData.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/DumpData.php
+END
+GenerateMigration.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateMigration.php
+END
+GenerateModelsDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateModelsDb.php
+END
+LoadData.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/LoadData.php
+END
+CreateDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/CreateDb.php
+END
+GenerateSql.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateSql.php
+END
+DropDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/DropDb.php
+END
+BuildAllReload.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/BuildAllReload.php
+END
+Dql.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/Dql.php
+END
+GenerateMigrationsDiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateMigrationsDiff.php
+END
+GenerateModelsYaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateModelsYaml.php
+END
+GenerateYamlModels.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateYamlModels.php
+END
+GenerateYamlDb.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/GenerateYamlDb.php
+END
+Compile.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/Compile.php
+END
+BuildAllLoad.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/BuildAllLoad.php
+END
+BuildAll.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/BuildAll.php
+END
+Migrate.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Task/Migrate.php
+END

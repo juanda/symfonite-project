@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Template/Listener
+END
+SoftDelete.php
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Template/Listener/SoftDelete.php
+END
+Sluggable.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Template/Listener/Sluggable.php
+END
+Timestampable.php
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Template/Listener/Timestampable.php
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/behavior
+END
+SfPropelBehaviorI18nTranslation.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorI18nTranslation.php
+END
+SfPropelBehaviorI18n.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorI18n.php
+END
+SfPropelBehaviorSymfony.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorSymfony.php
+END
+SfPropelBehaviorSymfonyBehaviors.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorSymfonyBehaviors.php
+END
+SfPropelBehaviorTimestampable.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorTimestampable.php
+END
+SfPropelBehaviorBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/behavior/SfPropelBehaviorBase.php
+END

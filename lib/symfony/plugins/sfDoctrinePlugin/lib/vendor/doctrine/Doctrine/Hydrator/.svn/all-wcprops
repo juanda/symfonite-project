@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator
+END
+ArrayHierarchyDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/ArrayHierarchyDriver.php
+END
+RecordHierarchyDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/RecordHierarchyDriver.php
+END
+ArrayDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/ArrayDriver.php
+END
+RecordDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/RecordDriver.php
+END
+NoneDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/NoneDriver.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/Exception.php
+END
+Graph.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/Graph.php
+END
+ScalarDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/ScalarDriver.php
+END
+Abstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/Abstract.php
+END
+SingleScalarDriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Hydrator/SingleScalarDriver.php
+END

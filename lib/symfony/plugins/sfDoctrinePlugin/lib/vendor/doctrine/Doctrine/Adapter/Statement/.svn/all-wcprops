@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Statement
+END
+Mock.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Statement/Mock.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Statement/Interface.php
+END
+Oracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Adapter/Statement/Oracle.php
+END

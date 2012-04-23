@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/util
+END
+Pluralizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/util/Pluralizer.php
+END
+DefaultEnglishPluralizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/util/DefaultEnglishPluralizer.php
+END

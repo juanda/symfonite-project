@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/input
+END
+InputHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/input/InputHandler.php
+END
+MultipleChoiceInputRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/input/MultipleChoiceInputRequest.php
+END
+DefaultInputHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/input/DefaultInputHandler.php
+END
+PropertyFileInputHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/input/PropertyFileInputHandler.php
+END
+YesNoInputRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/input/YesNoInputRequest.php
+END
+InputRequest.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/input/InputRequest.php
+END

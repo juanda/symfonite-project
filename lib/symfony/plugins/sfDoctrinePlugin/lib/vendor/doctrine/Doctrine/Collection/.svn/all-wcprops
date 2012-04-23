@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Collection
+END
+Iterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Collection/Iterator.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Collection/Exception.php
+END
+OnDemand.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Collection/OnDemand.php
+END
+Offset.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/vendor/doctrine/Doctrine/Collection/Offset.php
+END

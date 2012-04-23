@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel/om
+END
+NodeObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel/om/NodeObject.php
+END
+NestedSetRecursiveIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel/om/NestedSetRecursiveIterator.php
+END
+Persistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel/om/Persistent.php
+END
+BaseObject.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel/om/BaseObject.php
+END
+PreOrderNodeIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel/om/PreOrderNodeIterator.php
+END

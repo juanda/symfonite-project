@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model
+END
+Inheritance.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Inheritance.php
+END
+ConstraintNameGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/ConstraintNameGenerator.php
+END
+Column.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Column.php
+END
+IDMethod.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/IDMethod.php
+END
+IdMethodParameter.php
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/IdMethodParameter.php
+END
+Behavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Behavior.php
+END
+ColumnDefaultValue.php
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/ColumnDefaultValue.php
+END
+PhpNameGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/PhpNameGenerator.php
+END
+ForeignKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/ForeignKey.php
+END
+Database.php
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Database.php
+END
+Unique.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Unique.php
+END
+Rule.php
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Rule.php
+END
+Domain.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Domain.php
+END
+Index.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Index.php
+END
+NameFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/NameFactory.php
+END
+VendorInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/VendorInfo.php
+END
+AppData.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/AppData.php
+END
+XMLElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/XMLElement.php
+END
+Validator.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Validator.php
+END
+PropelTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/PropelTypes.php
+END
+NameGenerator.php
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/NameGenerator.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/database/model/Table.php
+END

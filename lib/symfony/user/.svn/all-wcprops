@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/user
+END
+sfUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/user/sfUser.class.php
+END
+sfSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/user/sfSecurityUser.class.php
+END
+sfBasicSecurityUser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/user/sfBasicSecurityUser.class.php
+END

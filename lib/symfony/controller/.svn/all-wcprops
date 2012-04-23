@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/controller
+END
+sfWebController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/controller/sfWebController.class.php
+END
+sfController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/controller/sfController.class.php
+END
+sfFrontWebController.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/controller/sfFrontWebController.class.php
+END

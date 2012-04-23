@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n
+END
+sfMessageSource_XLIFF.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageSource_XLIFF.class.php
+END
+sfMessageFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageFormat.class.php
+END
+sfCultureInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfCultureInfo.class.php
+END
+sfNumberFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfNumberFormat.class.php
+END
+sfChoiceFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfChoiceFormat.class.php
+END
+sfMessageSource_File.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageSource_File.class.php
+END
+sfMessageSource.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageSource.class.php
+END
+sfMessageSource_gettext.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageSource_gettext.class.php
+END
+sfMessageSource_Aggregate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageSource_Aggregate.class.php
+END
+sfNumberFormatInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfNumberFormatInfo.class.php
+END
+sfIMessageSource.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfIMessageSource.class.php
+END
+sfI18N.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfI18N.class.php
+END
+sfDateTimeFormatInfo.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfDateTimeFormatInfo.class.php
+END
+sfDateFormat.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfDateFormat.class.php
+END
+sfMessageSource_SQLite.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageSource_SQLite.class.php
+END
+sfMessageSource_Database.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageSource_Database.class.php
+END
+sfMessageSource_MySQL.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/i18n/sfMessageSource_MySQL.class.php
+END

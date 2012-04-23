@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport
+END
+SendmailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/SendmailTransport.php
+END
+SpoolTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/SpoolTransport.php
+END
+SimpleMailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/SimpleMailInvoker.php
+END
+MailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/MailTransport.php
+END
+MailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/MailInvoker.php
+END
+IoBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/IoBuffer.php
+END
+SmtpAgent.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/SmtpAgent.php
+END
+AbstractSmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/AbstractSmtpTransport.php
+END
+FailoverTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/FailoverTransport.php
+END
+EsmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/EsmtpTransport.php
+END
+StreamBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/StreamBuffer.php
+END
+EsmtpHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/EsmtpHandler.php
+END
+LoadBalancedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/LoadBalancedTransport.php
+END
+NullTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/NullTransport.php
+END

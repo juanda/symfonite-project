@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/Esmtp
+END
+Authenticator.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/Esmtp/Authenticator.php
+END
+AuthHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/vendor/swiftmailer/classes/Swift/Transport/Esmtp/AuthHandler.php
+END

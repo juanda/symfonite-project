@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/generator
+END
+sfPropelFormGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/generator/sfPropelFormGenerator.class.php
+END
+sfPropelFormFilterGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/generator/sfPropelFormFilterGenerator.class.php
+END
+sfPropelGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/generator/sfPropelGenerator.class.php
+END

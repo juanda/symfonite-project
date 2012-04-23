@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task
+END
+sfBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/sfBaseTask.class.php
+END
+sfTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/sfTask.class.php
+END
+sfFilesystem.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/sfFilesystem.class.php
+END
+sfCommandApplicationTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/sfCommandApplicationTask.class.php
+END

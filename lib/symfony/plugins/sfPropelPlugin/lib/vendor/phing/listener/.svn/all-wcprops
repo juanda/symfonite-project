@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/listener
+END
+AnsiColorLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/listener/AnsiColorLogger.php
+END
+StreamRequiredBuildLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/listener/StreamRequiredBuildLogger.php
+END
+defaults.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/listener/defaults.properties
+END
+PearLogListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/listener/PearLogListener.php
+END
+XmlLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/listener/XmlLogger.php
+END
+NoBannerLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/listener/NoBannerLogger.php
+END
+DefaultLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/listener/DefaultLogger.php
+END

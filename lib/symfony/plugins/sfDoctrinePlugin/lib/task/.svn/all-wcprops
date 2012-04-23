@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task
+END
+sfDoctrineInsertSqlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineInsertSqlTask.class.php
+END
+sfDoctrineGenerateModuleForRouteTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateModuleForRouteTask.class.php
+END
+sfDoctrineCleanModelFilesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineCleanModelFilesTask.class.php
+END
+sfDoctrineMigrateTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineMigrateTask.class.php
+END
+sfDoctrineBuildFiltersTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildFiltersTask.class.php
+END
+sfDoctrineGenerateMigrationsModelsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationsModelsTask.class.php
+END
+sfDoctrineGenerateMigrationsDbTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationsDbTask.class.php
+END
+sfDoctrineBuildTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildTask.class.php
+END
+sfDoctrineDataDumpTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDataDumpTask.class.php
+END
+sfDoctrineGenerateModuleTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateModuleTask.class.php
+END
+sfDoctrineGenerateAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateAdminTask.class.php
+END
+sfDoctrineGenerateMigrationTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationTask.class.php
+END
+sfDoctrineBuildDbTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildDbTask.class.php
+END
+sfDoctrineBuildFormsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildFormsTask.class.php
+END
+sfDoctrineConfigureDatabaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineConfigureDatabaseTask.class.php
+END
+sfDoctrineDeleteModelFilesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDeleteModelFilesTask.class.php
+END
+sfDoctrineDataLoadTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDataLoadTask.class.php
+END
+sfDoctrineDropDbTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDropDbTask.class.php
+END
+sfDoctrineBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBaseTask.class.php
+END
+sfDoctrineCreateModelTablesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineCreateModelTablesTask.class.php
+END
+sfDoctrineBuildSqlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildSqlTask.class.php
+END
+sfDoctrineDqlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDqlTask.class.php
+END
+sfDoctrineBuildSchemaTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildSchemaTask.class.php
+END
+sfDoctrineBuildModelTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildModelTask.class.php
+END
+sfDoctrineGenerateMigrationsDiffTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationsDiffTask.class.php
+END

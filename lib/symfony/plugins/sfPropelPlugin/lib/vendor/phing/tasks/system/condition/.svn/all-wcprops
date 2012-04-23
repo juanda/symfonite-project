@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition
+END
+AndCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/AndCondition.php
+END
+IsFalseCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsFalseCondition.php
+END
+IsSetCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsSetCondition.php
+END
+ConditionBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ConditionBase.php
+END
+EqualsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/EqualsCondition.php
+END
+IsTrueCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/IsTrueCondition.php
+END
+ContainsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ContainsCondition.php
+END
+ReferenceExistsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/ReferenceExistsCondition.php
+END
+Condition.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/Condition.php
+END
+NotCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/NotCondition.php
+END
+OrCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/OrCondition.php
+END
+OsCondition.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/phing/tasks/system/condition/OsCondition.php
+END

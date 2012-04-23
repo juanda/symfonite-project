@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/generator/skeleton/project/test/bootstrap
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/generator/skeleton/project/test/bootstrap/unit.php
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/generator/skeleton/project/test/bootstrap/functional.php
+END

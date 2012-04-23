@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/yaml
+END
+sfYamlInline.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/yaml/sfYamlInline.php
+END
+sfYaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/yaml/sfYaml.php
+END
+sfYamlDumper.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/yaml/sfYamlDumper.php
+END
+sfYamlParser.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/yaml/sfYamlParser.php
+END

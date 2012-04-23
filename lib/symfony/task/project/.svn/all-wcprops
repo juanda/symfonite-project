@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project
+END
+sfProjectDisableTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project/sfProjectDisableTask.class.php
+END
+sfProjectSendEmailsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project/sfProjectSendEmailsTask.class.php
+END
+sfProjectEnableTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project/sfProjectEnableTask.class.php
+END
+sfProjectValidateTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project/sfProjectValidateTask.class.php
+END
+sfProjectPermissionsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project/sfProjectPermissionsTask.class.php
+END
+sfProjectDeployTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project/sfProjectDeployTask.class.php
+END
+sfProjectClearControllersTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project/sfProjectClearControllersTask.class.php
+END
+sfProjectOptimizeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/project/sfProjectOptimizeTask.class.php
+END

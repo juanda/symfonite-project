@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om
+END
+ObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om/ObjectBuilder.php
+END
+OMBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om/OMBuilder.php
+END
+PeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om/PeerBuilder.php
+END
+ClassTools.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/om/ClassTools.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/config/skeleton/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/config/skeleton/config/propel.ini
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/config/skeleton/config/schema.yml
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/plugins/sfPropelPlugin/config/skeleton/config/databases.yml
+END

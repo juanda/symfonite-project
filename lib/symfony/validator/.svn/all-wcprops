@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator
+END
+sfValidatedFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatedFile.class.php
+END
+sfValidatorEmail.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorEmail.class.php
+END
+sfValidatorSchemaForEach.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorSchemaForEach.class.php
+END
+sfValidatorNumber.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorNumber.class.php
+END
+sfValidatorError.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorError.class.php
+END
+sfValidatorChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorChoice.class.php
+END
+sfValidatorDateRange.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorDateRange.class.php
+END
+sfValidatorCallback.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorCallback.class.php
+END
+sfValidatorDateTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorDateTime.class.php
+END
+sfValidatorInteger.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorInteger.class.php
+END
+sfValidatorTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorTime.class.php
+END
+sfValidatorCSRFToken.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorCSRFToken.class.php
+END
+sfValidatorSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorSchema.class.php
+END
+sfValidatorUrl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorUrl.class.php
+END
+sfValidatorAnd.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorAnd.class.php
+END
+sfValidatorPass.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorPass.class.php
+END
+sfValidatorSchemaFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorSchemaFilter.class.php
+END
+sfValidatorString.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorString.class.php
+END
+sfValidatorFromDescription.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorFromDescription.class.php
+END
+sfValidatorSchemaCompare.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorSchemaCompare.class.php
+END
+sfValidatorErrorSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorErrorSchema.class.php
+END
+sfValidatorBase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorBase.class.php
+END
+sfValidatorRegex.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorRegex.class.php
+END
+sfValidatorDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorDate.class.php
+END
+sfValidatorFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorFile.class.php
+END
+sfValidatorBoolean.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorBoolean.class.php
+END
+sfValidatorOr.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorOr.class.php
+END
+sfValidatorDecorator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/validator/sfValidatorDecorator.class.php
+END

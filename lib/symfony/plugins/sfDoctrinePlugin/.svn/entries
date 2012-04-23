@@ -1,0 +1,80 @@
+10
+
+dir
+324
+https://gea.pntic.mec.es/RepositoriosSVN/symfonite/branches/1.2/lib/symfony/plugins/sfDoctrinePlugin
+https://gea.pntic.mec.es/RepositoriosSVN/symfonite
+
+
+
+2011-10-18T08:45:11.130736Z
+264
+juanda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9e98654f-7600-4136-9a05-01edfcb41c26
+
+i18n
+dir
+
+test
+dir
+
+LICENSE
+file
+
+
+
+
+2012-04-23T07:48:00.057418Z
+80471cf84254400024258aca8bbce630
+2011-10-18T08:45:11.130736Z
+264
+juanda
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1064
+
+config
+dir
+
+lib
+dir
+
+data
+dir
+
+web
+dir
+

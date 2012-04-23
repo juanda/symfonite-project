@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/view
+END
+sfPHPView.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/view/sfPHPView.class.php
+END
+sfPartialView.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/view/sfPartialView.class.php
+END
+sfViewCacheManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/view/sfViewCacheManager.class.php
+END
+sfViewParameterHolder.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/view/sfViewParameterHolder.class.php
+END
+sfView.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/view/sfView.class.php
+END

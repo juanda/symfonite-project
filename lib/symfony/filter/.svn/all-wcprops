@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/filter
+END
+sfCommonFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/filter/sfCommonFilter.class.php
+END
+sfBasicSecurityFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/filter/sfBasicSecurityFilter.class.php
+END
+sfRenderingFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/filter/sfRenderingFilter.class.php
+END
+sfFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/filter/sfFilter.class.php
+END
+sfFilterChain.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/filter/sfFilterChain.class.php
+END
+sfCacheFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/filter/sfCacheFilter.class.php
+END
+sfExecutionFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/filter/sfExecutionFilter.class.php
+END

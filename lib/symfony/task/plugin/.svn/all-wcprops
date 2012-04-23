@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/plugin
+END
+sfPluginBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/plugin/sfPluginBaseTask.class.php
+END
+sfPluginListTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/plugin/sfPluginListTask.class.php
+END
+sfPluginAddChannelTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/plugin/sfPluginAddChannelTask.class.php
+END
+sfPluginInstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/plugin/sfPluginInstallTask.class.php
+END
+sfPluginUpgradeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/plugin/sfPluginUpgradeTask.class.php
+END
+sfPluginPublishAssetsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/plugin/sfPluginPublishAssetsTask.class.php
+END
+sfPluginUninstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/RepositoriosSVN/symfonite/!svn/ver/269/branches/1.2/lib/symfony/task/plugin/sfPluginUninstallTask.class.php
+END
