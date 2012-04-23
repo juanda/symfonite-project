@@ -1,6 +1,6 @@
 <?php
 
-require_once dirname(__FILE__) . '/../lib/symfony/lib/autoload/sfCoreAutoload.class.php';
+require_once dirname(__FILE__) . '/../lib/symfony/autoload/sfCoreAutoload.class.php';
 sfCoreAutoload::register();
 
 class ProjectConfiguration extends sfProjectConfiguration
@@ -18,6 +18,7 @@ class ProjectConfiguration extends sfProjectConfiguration
         $this->enablePlugins('sftSAMLPlugin');
         $this->enablePlugins('sftPAPIPlugin');
         $this->enablePlugins('sftFedIdentMapperPlugin');
+    $this->enablePlugins('sftGestionPlugin');
   }
 
 }
