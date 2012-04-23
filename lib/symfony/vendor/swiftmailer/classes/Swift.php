@@ -19,7 +19,7 @@ abstract class Swift
 {
   
   /** Swift Mailer Version number generated during dist release process */
-  const VERSION = '4.1.0-DEV';
+  const VERSION = '@SWIFT_VERSION_NUMBER@';
   
   /**
    * Internal autoloader for spl_autoload_register().

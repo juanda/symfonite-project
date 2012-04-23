@@ -13,7 +13,7 @@
  * {@link http://prado.sourceforge.net/}
  *
  * @author     Wei Zhuo <weizhuo[at]gmail[dot]com>
- * @version    $Id: sfNumberFormat.class.php 32678 2011-06-29 16:43:32Z fabien $
+ * @version    $Id: sfNumberFormat.class.php 28723 2010-03-23 16:37:43Z FabianLange $
  * @package    symfony
  * @subpackage i18n
  */
@@ -86,7 +86,7 @@ class sfNumberFormat
     }
     else if ($formatInfo instanceof sfCultureInfo)
     {
-      $this->formatInfo = $formatInfo->getNumberFormat();
+      $this->formatInfo = $formatInfo->sfNumberFormat;
     }
     else if ($formatInfo instanceof sfNumberFormatInfo)
     {
@@ -329,14 +329,8 @@ class sfNumberFormat
 
     list($significand, $exp) = explode('E', $string);
     list(, $decimal) = explode('.', $significand);
-    if ('-' === $exp[0]) {
-        $exp = str_replace('-', '', $exp);
+    $exp = str_replace('+', '', $exp) - strlen($decimal);
 
-        return '0.'.str_repeat('0', $exp).str_replace('.', '', $significand);
-    } else {
-        $exp = str_replace('+', '', $exp) - strlen($decimal);
-
-        return str_replace('.', '', $significand).str_repeat('0', $exp);
-    }
+    return str_replace('.', '', $significand).str_repeat('0', $exp);
   }
 }

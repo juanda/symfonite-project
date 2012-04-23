@@ -18,7 +18,7 @@
  * @subpackage exception
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Sean Kerr <sean@code-box.org>
- * @version    SVN: $Id: sfException.class.php 33214 2011-11-19 13:47:24Z fabien $
+ * @version    SVN: $Id: sfException.class.php 23901 2009-11-14 13:33:03Z bschussek $
  */
 class sfException extends Exception
 {
@@ -100,9 +100,7 @@ class sfException extends Exception
         }
       }
 
-      if (sfConfig::get('sf_compressed')) {
-          ob_start('ob_gzhandler');
-      }
+      ob_start(sfConfig::get('sf_compressed') ? 'ob_gzhandler' : '');
 
       header('HTTP/1.0 500 Internal Server Error');
     }
@@ -347,7 +345,7 @@ class sfException extends Exception
   {
     if (is_readable($file))
     {
-      $content = preg_split('#<br />#', preg_replace('/^<code>(.*)<\/code>$/s', '$1', highlight_file($file, true)));
+      $content = preg_split('#<br />#', highlight_file($file, true));
 
       $lines = array();
       for ($i = max($line - 3, 1), $max = min($line + 3, count($content)); $i <= $max; $i++)

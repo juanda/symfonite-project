@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage task
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfProjectOptimizeTask.class.php 32707 2011-07-01 12:54:40Z fabien $
+ * @version    SVN: $Id: sfProjectOptimizeTask.class.php 29415 2010-05-12 06:24:54Z fabien $
  */
 class sfProjectOptimizeTask extends sfBaseTask
 {
@@ -171,19 +171,22 @@ EOF;
     $dirs = array(sfConfig::get('sf_app_module_dir'));
 
     // plugins
-    $pluginSubPaths = $this->configuration->getPluginSubPaths(DIRECTORY_SEPARATOR.'modules');
-    $modules = array();
-    foreach (sfFinder::type('dir')->maxdepth(0)->follow_link()->relative()->in($pluginSubPaths) as $module)
+    foreach ($this->configuration->getPluginSubPaths(DIRECTORY_SEPARATOR.'modules') as $path)
     {
-        if (in_array($module, sfConfig::get('sf_enabled_modules')))
+      // parse out the plugin name
+      if (preg_match("#plugins".preg_quote(DIRECTORY_SEPARATOR)."([^".preg_quote(DIRECTORY_SEPARATOR)."]+)".preg_quote(DIRECTORY_SEPARATOR)."modules#", $path, $matches))
+      {
+        // plugin module enabled?
+        if (in_array($matches[1], sfConfig::get('sf_enabled_modules')))
         {
-          $modules[] = $module;
+          $dirs[] = $path;
         }
+      }
     }
 
     // core modules
     $dirs[] = sfConfig::get('sf_symfony_lib_dir').'/controller';
 
-    return array_unique(array_merge(sfFinder::type('dir')->maxdepth(0)->follow_link()->relative()->in($dirs), $modules));
+    return array_unique(sfFinder::type('dir')->maxdepth(0)->follow_link()->relative()->in($dirs));
   }
 }

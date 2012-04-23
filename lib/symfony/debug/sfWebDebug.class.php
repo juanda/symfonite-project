@@ -14,7 +14,7 @@
  * @package    symfony
  * @subpackage debug
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfWebDebug.class.php 32890 2011-08-05 07:44:44Z fabien $
+ * @version    SVN: $Id: sfWebDebug.class.php 30961 2010-09-22 09:36:43Z Kris.Wallsmith $
  */
 class sfWebDebug
 {
@@ -154,33 +154,20 @@ class sfWebDebug
    */
   public function injectToolbar($content)
   {
-    if (function_exists('mb_stripos'))
-    {
-      $posFunction = 'mb_stripos';
-      $posrFunction = 'mb_strripos';
-      $substrFunction = 'mb_substr';
-    }
-    else
-    {
-      $posFunction = 'stripos';
-      $posrFunction = 'strripos';
-      $substrFunction = 'substr';
-    }
-
-    if (false !== $pos = $posFunction($content, '</head>'))
+    if (false !== $pos = stripos($content, '</head>'))
     {
       $styles = '<style type="text/css">'.str_replace(array("\r", "\n"), ' ', $this->getStylesheet()).'</style>';
-      $content = $substrFunction($content, 0, $pos).$styles.$substrFunction($content, $pos);
+      $content = substr($content, 0, $pos).$styles.substr($content, $pos);
     }
 
     $debug = $this->asHtml();
-    if (false === $pos = $posrFunction($content, '</body>'))
+    if (false === $pos = strripos($content, '</body>'))
     {
       $content .= $debug;
     }
     else
     {
-      $content = $substrFunction($content, 0, $pos).'<script type="text/javascript">'.$this->getJavascript().'</script>'.$debug.$substrFunction($content, $pos);
+      $content = substr($content, 0, $pos).'<script type="text/javascript">'.$this->getJavascript().'</script>'.$debug.substr($content, $pos);
     }
 
     return $content;
@@ -780,7 +767,7 @@ EOF;
   margin: 0;
   padding: 0;
   margin-left: 20px;
-  list-style: decimal;
+  list-style: number;
 }
 
 #sfWebDebugDatabaseLogs li

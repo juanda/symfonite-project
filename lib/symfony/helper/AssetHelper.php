@@ -16,7 +16,7 @@
  * @subpackage helper
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     David Heinemeier Hansson
- * @version    SVN: $Id: AssetHelper.php 33121 2011-10-07 12:29:09Z fabien $
+ * @version    SVN: $Id: AssetHelper.php 24289 2009-11-23 19:45:06Z Kris.Wallsmith $
  */
 
 /**
@@ -374,7 +374,7 @@ function image_tag($source, $options = array())
 
 function _compute_public_path($source, $dir, $ext, $absolute = false)
 {
-  if (strpos($source, '://') || strpos($source, '//') === 0)
+  if (strpos($source, '://'))
   {
     return $source;
   }

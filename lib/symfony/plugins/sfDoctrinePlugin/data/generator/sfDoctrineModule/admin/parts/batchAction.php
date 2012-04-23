@@ -54,8 +54,6 @@
 
     foreach ($records as $record)
     {
-      $this->dispatcher->notify(new sfEvent($this, 'admin.delete_object', array('object' => $record)));
-
       $record->delete();
     }
 

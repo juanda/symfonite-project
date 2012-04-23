@@ -142,14 +142,14 @@ class Doctrine_Connection_Pgsql extends Doctrine_Connection_Common
                 $from  = $match[2];
                 $where = $match[3];
                 $query = $manip . ' ' . $from . ' WHERE ctid=(SELECT ctid FROM '
-                       . $from . ' ' . $where . ' LIMIT ' . (int)$limit . ')';
+                       . $from . ' ' . $where . ' LIMIT ' . $limit . ')';
 
             } else {
                 if ( ! empty($limit)) {
-                  $query .= ' LIMIT ' . (int)$limit;
+                  $query .= ' LIMIT ' . $limit;
                 }
                 if ( ! empty($offset)) {
-                  $query .= ' OFFSET ' . (int)$offset;
+                  $query .= ' OFFSET ' . $offset;
                 }
             }
         }
