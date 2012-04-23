@@ -18,12 +18,3 @@ plugged. In order to know what you can do with this, you should follow the tutor
 http://ntic.educacion.es/desarrollo/docs/sft/tutoriales/tutorial-1.html
 
 from the 3th point (the precedents say how to deploy the framework from a tgz file)
-
-.. Important 
-   
-   If you use MySQL > 5.5.x, once de symfony1 submodule has been updated, you
-   must change the file:
-
-   lib/symfony/lib/plugins/sfPropelPlugin/lib/vendor/propel-generator/classes/propel/engine/builder/sql/mysql/MysqlDDLBuilder.php
-
-   line 156, change it as follows:- $script .= “Engine=$mysqlTableType”;
