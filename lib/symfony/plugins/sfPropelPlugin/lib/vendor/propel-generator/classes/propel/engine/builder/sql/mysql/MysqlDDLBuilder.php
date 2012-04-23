@@ -153,7 +153,7 @@ CREATE TABLE ".$this->quoteIdentifier($this->prefixTablename($table->getName()))
 			}
 		}
 
-		$script .= "Engine=$mysqlTableType";
+		$script .= "Type=$mysqlTableType";
 
 		$dbVendorSpecific = $table->getDatabase()->getVendorInfoForType($databaseType);
 		$tableVendorSpecific = $table->getVendorInfoForType($databaseType);

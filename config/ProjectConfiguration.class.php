@@ -19,6 +19,7 @@ class ProjectConfiguration extends sfProjectConfiguration
         $this->enablePlugins('sftPAPIPlugin');
         $this->enablePlugins('sftFedIdentMapperPlugin');
     $this->enablePlugins('sftGestionPlugin');
+    $this->enablePlugins('sftGestionPlugin');
   }
 
 }
