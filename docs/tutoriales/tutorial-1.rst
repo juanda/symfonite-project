@@ -8,6 +8,13 @@ Los primeros pasos a seguir son los siguientes:
 
    http://ntic.educacion.es/desarrollo/symfonite/downloads/symfonite-1.2.tgz
 
+   También puedes obtener el código a través de github:
+
+   https://github.com/juanda/symfonite-project
+
+   Mira las instrucciones de despliegue que aparecen en el README de github.
+   Si lo haces de esta manera, puedes pasar directamente al punto 3.
+
 2. Descomprimir dicho fichero en algún directorio accesible por el web server
    (*/var/www* suele ser el *DocumentRoot* en muchas distribuciones *linux*) y entrar
    en el directorio recien creado (*symfonite*).
@@ -76,7 +83,7 @@ Los primeros pasos a seguir son los siguientes:
 
    .. code-block:: sh
 
-      mysqladmin -uroot -p create symfonite
+      mysqladmin -uroot -p create sft
 
    Ahora definimos los parámetros de conexión a la base de datos. Para lo que ajustamos los
    parámetros *dsn*, *username* y *password* del fichero *config/databases.yml* del proyecto
@@ -100,19 +107,26 @@ Los primeros pasos a seguir son los siguientes:
 
    .. note::
   
-      Si tenemos una base de datos que se llame *symfonite*, en el servidor *localhost*, con un
+      Si tenemos una base de datos que se llame *sft*, en el servidor *localhost*, con un
       usuario *root* con password *root*, no es necesario hacer este paso pues estos son los parámetros de
       conexión que vienen por defecto en archivo *config/databases.yml*. En un entorno de desarrollo este
       hecho puede ser muy útil pues evita tener que tocar dicho fichero cada vez que se despliega el
       *framework*.
 
-   Y ahora ya estamos en condiciones para crear la aplicación de administración y crear las
-   tablas de la base de datos [5]_ ejecutando desde el directorio raíz del proyecto la siguiente tarea
-   de *symfony*:
+5. Crear la aplicación de administración y las tablas de la base de datos [5]_, para lo cual 
+   ejecutamos desde el directorio raíz del proyecto la siguiente tarea de *symfony*:
 
    .. code-block:: sh
 
-      ./symfony generate:appITE --titulo='Administración de la plataforma' --es_admin=true backend
+      ./symfony generate:appITE --titulo='Administración de la plataforma' --es_admin=true --url='http://localhost/sft/web' backend 
+
+   El último parámetro (*backend*) es el nombre que *symfony* le asignará a la aplicación.
+
+   .. note::
+
+      Estamos suponiendo que la instalación la estamos realizando en la máquina local y que estamos
+      desplegando el framework en un directorio que cuelga directamente del *DocumentRoot* y al
+      que hemos llamado ``sft``.
 
    .. note::
 
@@ -120,13 +134,9 @@ Los primeros pasos a seguir son los siguientes:
       en */etc/php.ini* o */etc/php5/cli/php.ini* en muchas de las distribuciones *linux*) tienes asignada suficiente memoria (directiva
       *memory_limit*). Además debes borrar la aplicacion *backend* fallida (*rm -r ./apps/backend* desde el directorio *sft*).
 
-   El último parámetro de la tarea anterior (*backend*) es el nombre que *symfony* le asignará a la
-   aplicación.
-
    Durante la ejecución de la tarea aparece un mensaje de advertencia que indica que los datos
    almacenados en la base de datos serán sobreescritos. Como en nuestro caso estamos
-   creándola por primera vez, esto no supone ningún problema. Así que contestamos
-   afirmativamente.
+   creándola por primera vez, esto no supone ningún problema. Así que contestamos afirmativamente.
 
    En este momento ya tenemos disponible una aplicación completamente funcional para la
    administración del sistema *symfonite*. Vamos a probarla un poco.
@@ -156,7 +166,7 @@ Los primeros pasos a seguir son los siguientes:
       - consulta de la ayuda
       - logout.
 
-    • El menú de la aplicación, e cual se puede crear y modificar desde la aplicación de
+    • El menú de la aplicación, el cual se puede crear y modificar desde la aplicación de
       administración que acabamos de crear.
     • Un proceso común para realizar el inicio de sesión.
 
@@ -295,12 +305,12 @@ Vamos a configurar el *SSO* usando el componente *SAML* de *symfonite*. Para ell
 1. Entra en el módulo de gestión de aplicaciones (menú “Aplicaciones”) de la aplicación de
    gestión y cambia el tipo de login de las dos aplicaciones que tenemos disponibles a “*SAML*”
    (puedes hacer esto desde el propio listado de aplicaciones, marcándolas y ejecutando la
-   operación en lote “Login tipo *SAML*”).
+   operación en lote *Login tipo SAML*).
 
    .. image:: imagenes/tutorial-sft-1.png
 
 2. Sal de la aplicación (botón “salir” arriba a la derecha). Verás que se te redirige a una pantalla
-   en la que puedes elegir un proveedor de identidad. Selecciona el “*IdP* *symfonite*”. Aparecerá
+   en la que puedes elegir un proveedor de identidad. Selecciona el *IdP symfonite*. Aparecerá
    la pantalla de login del *IdP* (diferente a la del login normal). Identifícate y entrarás en la
    aplicación.
 
