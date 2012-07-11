@@ -12,4 +12,4 @@ _darcs
 .hg
 .monotone
 .svn
-CVS
+#CVS
